@@ -1,0 +1,145 @@
+
+Currently Loaded Modules:
+  1) nixpkgs/16.09      (S)      8) gcc/7.3.0       (t)
+  2) icc/.2019.3.199    (H)      9) boost/1.68.0    (t)
+  3) ifort/.2019.3.199  (H)     10) rdkit/2019.03.4 (chem)
+  4) cudacore/.10.1.243 (H)     11) cuda/10.1       (t)
+  5) cudnn/7.6.5        (math)  12) eigen/3.3.5     (math)
+  6) python/3.7.4       (t)     13) openbabel/3.0.0 (chem)
+  7) gcccore/.7.3.0     (H)
+
+  Where:
+   H:     Hidden Module
+   S:     Module is Sticky, requires --force to unload or purge
+   chem:  Chemistry libraries/apps / Logiciels de chimie
+   math:  Mathematical libraries / Bibliothèques mathématiques
+   t:     Tools for development / Outils de développement
+
+ 
+
+Package                 Version                  
+----------------------- -------------------------
+absl-py                 1.0.0+computecanada      
+attrs                   21.4.0+computecanada     
+beautifulsoup4          4.10.0+computecanada     
+bel-resources           0.0.3                    
+biopython               1.78+computecanada       
+bioregistry             0.4.58                   
+bioversions             0.4.4                    
+boto3                   1.20.49                  
+botocore                1.23.49                  
+cachetools              5.0.0                    
+cachier                 1.5.4                    
+certifi                 2021.10.8+computecanada  
+charset-normalizer      2.0.11+computecanada     
+chembl-downloader       0.2.1                    
+class-resolver          0.3.1                    
+click                   8.0.3+computecanada      
+click-default-group     1.2.2                    
+click-plugins           1.1.1+computecanada      
+cycler                  0.10.0+computecanada     
+dataclasses-json        0.5.6                    
+decorator               4.4.2+computecanada      
+dgl-cpu                 0.4.3.post2+computecanada
+dgl-gpu                 0.4.3.post2+computecanada
+docutils                0.17.1+computecanada     
+drugbank-downloader     0.1.1                    
+fcd-torch               1.0.7                    
+future                  0.18.2+computecanada     
+gnureadline             8.0.0                    
+google-auth             2.6.2                    
+google-auth-oauthlib    0.4.6+computecanada      
+greenlet                1.1.2                    
+grpcio                  1.38.0+computecanada     
+humanize                3.14.0+computecanada     
+idna                    3.3+computecanada        
+importlib-metadata      4.10.1+computecanada     
+importlib-resources     5.4.0+computecanada      
+intel-openmp            2021.1.1+computecanada   
+jmespath                0.10.0+computecanada     
+joblib                  0.14.1+computecanada     
+jsonschema              4.4.0+computecanada      
+kiwisolver              1.2.0+computecanada      
+lxml                    4.7.1                    
+markdown                3.3.6+computecanada      
+marshmallow             3.14.1                   
+marshmallow-enum        1.5.1                    
+matplotlib              3.2.1+computecanada      
+mkl                     2021.1.1+computecanada   
+mmcif-pdbx              2.0.1                    
+molsets                 0.3.1                    
+more-click              0.0.6                    
+more-itertools          8.12.0                   
+multisplitby            0.0.1                    
+mypy-extensions         0.4.3+computecanada      
+networkx                2.4+computecanada        
+numpy                   1.20.2+computecanada     
+oauthlib                3.2.0                    
+obonet                  0.3.0                    
+olefile                 0.46+computecanada       
+ordered-set             4.1.0                    
+pandas                  1.0.3+computecanada      
+pathtools               0.1.2+computecanada      
+pdb2pqr                 3.5.2                    
+pickle5                 0.0.11                   
+Pillow                  7.0.0+computecanada      
+Pillow-SIMD             7.0.0.post3+computecanada
+pip                     19.1.1                   
+pomegranate             0.12.0+computecanada     
+portalocker             2.3.2+computecanada      
+propka                  3.4.0                    
+protmapper              0.0.24                   
+protobuf                3.19.4+computecanada     
+psycopg2-binary         2.9.3                    
+pyasn1                  0.4.8+computecanada      
+pyasn1-modules          0.2.8+computecanada      
+pybel                   0.15.4                   
+pydantic                1.9.0                    
+pyobo                   0.7.0                    
+pyparsing               2.4.7+computecanada      
+pyrsistent              0.18.1                   
+pystow                  0.3.1                    
+python-dateutil         2.8.1+computecanada      
+pytz                    2019.3+computecanada     
+PyYAML                  5.3.1+computecanada      
+ratelimit               2.2.1                    
+requests                2.27.1+computecanada     
+requests-file           1.5.1                    
+requests-ftp            0.3.1                    
+requests-oauthlib       1.3.1                    
+rsa                     4.8+computecanada        
+s3transfer              0.5.1+computecanada      
+scikit-learn            0.23.0+computecanada     
+scipy                   1.4.1+computecanada      
+seaborn                 0.11.2+computecanada     
+selfies                 2.0.0                    
+setuptools              60.10.0                  
+six                     1.14.0+computecanada     
+sklearn                 0.0+computecanada        
+soupsieve               2.3.1                    
+SQLAlchemy              1.4.31                   
+tabulate                0.8.9+computecanada      
+tbb                     2021.1.1+computecanada   
+tensorboard-data-server 0.6.1+computecanada      
+tensorboard-plugin-wit  1.8.1                    
+tensorboardX            2.5                      
+threadpoolctl           3.1.0                    
+torch                   1.5.1+computecanada      
+torchvision             0.6.1+computecanada      
+tqdm                    4.45.0                   
+typing-extensions       4.0.1+computecanada      
+typing-inspect          0.7.1                    
+umls-downloader         0.0.3                    
+urllib3                 1.26.8+computecanada     
+virtualenv              16.6.2                   
+watchdog                2.1.6                    
+werkzeug                2.0.3+computecanada      
+wheel                   0.33.4                   
+zenodo-client           0.1.0                    
+zipp                    3.7.0+computecanada      
+
+loaded libraries in : 21.18s
+working dir is /project/6005112/retienne/blocks_SELFIES
+>>> Loading data from moses
+>>> Saving data to csv file in data dir
+it took 28.71s to execute the whole script

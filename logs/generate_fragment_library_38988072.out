@@ -1,0 +1,150 @@
+
+Currently Loaded Modules:
+  1) CCconfig                 8) imkl/2021.2.0   (math)
+  2) gentoo/2020     (S)      9) gcccore/.9.3.0  (H)
+  3) StdEnv/2020     (S)     10) gcc/9.3.0       (t)
+  4) mii/1.1.1               11) boost/1.72.0    (t)
+  5) eigen/3.3.7     (math)  12) rdkit/2021.09.3 (chem)
+  6) rapidjson/1.1.0         13) openbabel/3.1.1 (chem)
+  7) libffi/3.3              14) python/3.8.10   (t)
+
+  Where:
+   H:     Hidden Module
+   S:     Module is Sticky, requires --force to unload or purge
+   chem:  Chemistry libraries/apps / Logiciels de chimie
+   math:  Mathematical libraries / Bibliothèques mathématiques
+   t:     Tools for development / Outils de développement
+
+ 
+
+Package                Version                  
+---------------------- -------------------------
+antlr4-python3-runtime 4.9.3+computecanada      
+appdirs                1.4.3                    
+attrs                  21.4.0+computecanada     
+bashlex                0.16                     
+beautifulsoup4         4.10.0+computecanada     
+bel-resources          0.0.3                    
+bioregistry            0.4.58                   
+bioversions            0.4.4                    
+boto3                  1.20.49                  
+botocore               1.23.49                  
+bracex                 2.2.1                    
+cachier                1.5.4                    
+certifi                2021.10.8+computecanada  
+charset-normalizer     2.0.11+computecanada     
+chembl-downloader      0.2.1                    
+cibuildwheel           2.3.1                    
+class-resolver         0.3.1                    
+click                  8.0.3+computecanada      
+click-default-group    1.2.2                    
+click-plugins          1.1.1+computecanada      
+cycler                 0.10.0+computecanada     
+dataclasses-json       0.5.6                    
+decorator              4.4.2+computecanada      
+dgl-cpu                0.4.3.post2+computecanada
+dgl-gpu                0.4.3.post2+computecanada
+distlib                0.3.0                    
+distro                 1.7.0                    
+docker                 5.0.3                    
+drugbank-downloader    0.1.1                    
+fcd-torch              1.0.7                    
+filelock               3.0.12                   
+future                 0.18.2+computecanada     
+greenlet               1.1.2                    
+humanize               3.14.0+computecanada     
+idna                   3.3+computecanada        
+importlib-metadata     4.10.1+computecanada     
+importlib-resources    5.4.0+computecanada      
+iniconfig              1.1.1+computecanada      
+intel-openmp           2021.1.1+computecanada   
+jmespath               0.10.0+computecanada     
+joblib                 0.14.1+computecanada     
+jsonschema             4.4.0+computecanada      
+jupyter-core           4.9.2                    
+kiwisolver             1.2.0+computecanada      
+llvmlite               0.36.0+computecanada     
+lxml                   4.7.1+computecanada      
+marshmallow            3.14.1                   
+marshmallow-enum       1.5.1                    
+matplotlib             3.2.1+computecanada      
+mkl                    2021.1.1+computecanada   
+molsets                0.3.1                    
+more-click             0.0.6                    
+more-itertools         8.12.0                   
+multisplitby           0.0.1                    
+mypy-extensions        0.4.3+computecanada      
+networkx               2.4+computecanada        
+numpy                  1.21.4+computecanada     
+obonet                 0.3.0                    
+olefile                0.46+computecanada       
+openbabel              3.1.1.1                  
+ordered-set            4.1.0                    
+packaging              21.3+computecanada       
+pandas                 1.0.3+computecanada      
+pathtools              0.1.2+computecanada      
+pickle5                0.0.11                   
+Pillow                 7.0.0+computecanada      
+Pillow-SIMD            7.0.0.post3+computecanada
+pip                    20.0.2                   
+pluggy                 1.0.0+computecanada      
+pomegranate            0.12.0+computecanada     
+portalocker            2.3.2+computecanada      
+prompt-toolkit         3.0.28                   
+protmapper             0.0.24                   
+psycopg2-binary        2.9.3                    
+py                     1.11.0+computecanada     
+pybel                  0.15.4                   
+pydantic               1.9.0                    
+pygments               2.11.2+computecanada     
+pyobo                  0.7.0                    
+pyparsing              2.4.7+computecanada      
+pyrsistent             0.18.1+computecanada     
+pystow                 0.3.1                    
+pytest                 7.0.1+computecanada      
+python-dateutil        2.8.1+computecanada      
+pytz                   2019.3+computecanada     
+PyYAML                 5.3.1+computecanada      
+ratelimit              2.2.1                    
+requests               2.27.1+computecanada     
+requests-file          1.5.1                    
+requests-ftp           0.3.1                    
+s3transfer             0.5.1+computecanada      
+scikit-build           0.13.1                   
+scikit-learn           1.0.2+computecanada      
+scipy                  1.4.1+computecanada      
+seaborn                0.10.1+computecanada     
+selfies                2.1.0                    
+setuptools             45.2.0                   
+setuptools-scm         3.5.0                    
+six                    1.14.0+computecanada     
+sklearn                0.0+computecanada        
+soupsieve              2.3.1                    
+sqlalchemy             1.4.31+computecanada     
+tabulate               0.8.9+computecanada      
+tbb                    2021.1.1+computecanada   
+threadpoolctl          3.1.0                    
+tomli                  2.0.1+computecanada      
+torch                  1.5.1+computecanada      
+torchvision            0.6.1+computecanada      
+tqdm                   4.45.0                   
+traitlets              5.1.1+computecanada      
+transvae               0.6.3+computecanada      
+typing-extensions      4.0.1+computecanada      
+typing-inspect         0.7.1                    
+umls-downloader        0.0.3                    
+urllib3                1.26.8+computecanada     
+virtualenv             20.0.18                  
+watchdog               2.1.6                    
+wcwidth                0.2.5+computecanada      
+websocket-client       1.3.1                    
+wheel                  0.34.2                   
+zenodo-client          0.1.0                    
+zipp                   3.7.0+computecanada      
+/project/6005112/retienne/blocks_SELFIES
+It took 100.39s to load libraries
+loaded 1584663 SELFIES in: 10.02s
+Filtered 1584663 SELFIES in: 534.04s, 96.76% passed the filters
+generated 926353 non redundant fragments from 1533297 SELFIES in: 23.02s
+classified 926353 non redundant fragments and retained 27.05% of them, in: 13.42s
+tested 250549 blocks and found that 79.42% are insertable, in: 12.33s
